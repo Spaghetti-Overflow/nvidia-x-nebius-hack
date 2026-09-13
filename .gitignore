@@ -1,0 +1,29 @@
+# Local disposable work
+.scratch/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Future runtime/build output (extend after stack selection)
+app/evals/runs/**
+!app/evals/runs/.gitkeep
+app/.runtime/
+app/tmp/
+coverage/
+dist/
+build/
+__pycache__/
+*.py[cod]
+node_modules/
