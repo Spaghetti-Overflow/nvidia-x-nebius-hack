@@ -11,6 +11,7 @@ This is an agent-first discovery and delivery workspace for a four-person Nebius
 | Generic harness concepts | [`docs/harness-primer.md`](docs/harness-primer.md) |
 | Accepted architecture | [`docs/architecture.md`](docs/architecture.md) |
 | Evaluation policy | [`docs/evaluation.md`](docs/evaluation.md) |
+| ChatGPT idea-research workflow | [`docs/research-with-chatgpt.md`](docs/research-with-chatgpt.md) |
 | Material accepted decisions | [`docs/decisions/`](docs/decisions/README.md) |
 | External technical evidence | [`research/`](research/README.md) |
 | Ecosystem comparison | [`research/landscape.md`](research/landscape.md) |
