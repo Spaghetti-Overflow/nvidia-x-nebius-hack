@@ -10,7 +10,7 @@ No product architecture, implementation stack, or component boundary has been se
 - The submission must satisfy [`hackathon.md`](hackathon.md), including real Nebius use and an NVIDIA open-source model.
 - Executable material lives under `app/`; canonical knowledge and external evidence stay outside it.
 - Claims of improved agent or harness behavior require controlled evaluation under [`evaluation.md`](evaluation.md).
-- A four-person team and hackathon timeline favor a narrow product surface and low operational overhead.
+- A five-person team and hackathon timeline favor a narrow product surface and low operational overhead.
 
 ## Architecture goals
 

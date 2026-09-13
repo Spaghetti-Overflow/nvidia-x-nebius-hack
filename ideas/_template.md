@@ -39,7 +39,7 @@ Use `pass`, `risk`, or `fail` with one sentence of evidence. A score is not a su
 | Track fit |  | Genuine Coding and Agentic Engineering fit, not a rebrand |
 | Native technology fit |  | Nebius and NVIDIA are functional, necessary parts |
 | Real problem |  | Specific user and evidence of meaningful pain |
-| Buildability |  | Four-person team can produce a reliable end-to-end slice |
+| Buildability |  | Five-person team can produce a reliable end-to-end slice |
 | Demoability |  | Value and technology use are legible in <3 minutes |
 
 ## Sources

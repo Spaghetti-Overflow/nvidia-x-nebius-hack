@@ -6,9 +6,9 @@ Ideas are hypotheses, not decisions. Start with a user and problem; technology o
 personal exploration → shared hypothesis → research/validation → shortlist → selected or rejected
 ```
 
-- `people/`: individual exploration. Add one directory per real member when names/handles are known; do not invent placeholders.
-- `shared/`: actively discussed candidates copied/moved from personal work once another teammate can challenge them.
-- `archive/`: rejected, paused, or superseded candidates whose evidence and rejection reasoning remain useful.
+- `personal/`: optional local scratch space for individual exploration. Its contents are ignored except for `.gitkeep`; temporary drafts do not belong in repository history.
+- `shared/`: candidates worth reviewing as a team. Promote a personal draft here only when its owner wants it versioned and challenged.
+- `archive/`: rejected, paused, or superseded shared candidates whose evidence and rejection reasoning remain useful. Do not archive every disposable personal draft.
 - [`_template.md`](_template.md): lightweight structure and selection gates.
 - [`../docs/validate-idea-with-chatgpt.md`](../docs/validate-idea-with-chatgpt.md): fast, read-only validation from a regular ChatGPT conversation before deeper research.
 

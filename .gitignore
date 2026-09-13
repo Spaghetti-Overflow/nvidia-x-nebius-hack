@@ -1,5 +1,7 @@
 # Local disposable work
 .scratch/
+ideas/personal/**
+!ideas/personal/.gitkeep
 
 # Secrets and local environment
 .env

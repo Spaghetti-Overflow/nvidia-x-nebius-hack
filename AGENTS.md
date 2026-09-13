@@ -1,6 +1,6 @@
 # Repository constitution
 
-This is an agent-first discovery and delivery workspace for a four-person Nebius x NVIDIA Global AI Hackathon 2026 team. The final product, stack, and architecture are **undecided**. Coding and Agentic Engineering is the current exploration area, not a predetermined solution.
+This is an agent-first discovery and delivery workspace for a five-person Nebius x NVIDIA Global AI Hackathon 2026 team. The final product, stack, and architecture are **undecided**. Coding and Agentic Engineering is the current exploration area, not a predetermined solution.
 
 ## Route by task
 

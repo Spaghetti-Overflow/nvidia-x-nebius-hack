@@ -74,4 +74,4 @@ A practical hybrid is common: direct lifecycle calls, service interfaces at valu
 - Are branch/search policies a product behavior, an evaluation technique, or unnecessary complexity?
 - Which capability swaps must be demonstrated with the same model/task/environment/budget?
 - How will a failed, cancelled, or timed-out action be represented without implying it never happened?
-- What extension surface can a four-person team secure, document, test, and demo convincingly?
+- What extension surface can a five-person team secure, document, test, and demo convincingly?

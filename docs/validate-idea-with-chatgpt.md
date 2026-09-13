@@ -48,7 +48,6 @@ Before proposing a new idea file, research note, term, or conclusion, search the
 
 Inspect only the relevant results under:
 
-- [`ideas/people/`](https://github.com/Spaghetti-Overflow/nvidia-x-nebius-hack/tree/main/ideas/people)
 - [`ideas/shared/`](https://github.com/Spaghetti-Overflow/nvidia-x-nebius-hack/tree/main/ideas/shared)
 - [`ideas/archive/`](https://github.com/Spaghetti-Overflow/nvidia-x-nebius-hack/tree/main/ideas/archive)
 - [`research/`](https://github.com/Spaghetti-Overflow/nvidia-x-nebius-hack/tree/main/research)
@@ -131,7 +130,7 @@ Recommend one of:
 
 - update an existing canonical file;
 - start or continue the [full research workflow](research-with-chatgpt.md);
-- draft a new personal idea from [`ideas/_template.md`](../ideas/_template.md);
+- draft a new local personal idea from [`ideas/_template.md`](../ideas/_template.md), then promote it to `ideas/shared/` only when it is ready for team review;
 - archive or reject the idea while preserving the reason;
 - make no repository change yet.
 

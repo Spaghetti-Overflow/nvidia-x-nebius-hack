@@ -26,7 +26,7 @@ the idea and return the deliverables required by the entry point. Do not treat t
 proposed solution as validated, and do not invent evidence when a source is missing.
 ```
 
-The teammate should review the result, correct unsupported claims, save the idea under `ideas/people/<handle>/<idea-slug>.md`, and commit it. A regular ChatGPT chat is a research and drafting surface; it does not update this repository.
+The teammate should review the result and correct unsupported claims. If useful, save it locally under `ideas/personal/<idea-slug>.md`; this scratch area is intentionally ignored. Promote it to `ideas/shared/<idea-slug>.md` and commit only when it is ready for team review. A regular ChatGPT chat is a research and drafting surface; it does not update this repository.
 
 ---
 
@@ -139,15 +139,15 @@ Choose one provisional outcome:
 
 Give the strongest supporting evidence, strongest disconfirming evidence, and the riskiest remaining unknown. A verdict is a research recommendation, not a team selection decision.
 
-#### C. Commit-ready idea document
+#### C. Review-ready idea draft
 
-Produce one Markdown block ready to save as:
+Produce one Markdown block ready to save locally as:
 
 ```text
-ideas/people/<handle>/<idea-slug>.md
+ideas/personal/<idea-slug>.md
 ```
 
-Follow the repository's `ideas/_template.md` exactly. Preserve unknowns, use `pass`, `risk`, or `fail` for every gate, and place source URLs in the `Sources` section. Do not mark the idea `selected`; selection is an explicit team decision.
+Follow the repository's `ideas/_template.md` exactly. Preserve unknowns, use `pass`, `risk`, or `fail` for every gate, and place source URLs in the `Sources` section. Personal drafts are ignored by Git; recommend promotion to `ideas/shared/` only after human review. Do not mark the idea `selected`; selection is an explicit team decision.
 
 #### D. Reusable research suggestions
 
