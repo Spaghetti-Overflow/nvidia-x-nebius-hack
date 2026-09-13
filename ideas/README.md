@@ -10,5 +10,6 @@ personal exploration → shared hypothesis → research/validation → shortlist
 - `shared/`: actively discussed candidates copied/moved from personal work once another teammate can challenge them.
 - `archive/`: rejected, paused, or superseded candidates whose evidence and rejection reasoning remain useful.
 - [`_template.md`](_template.md): lightweight structure and selection gates.
+- [`../docs/validate-idea-with-chatgpt.md`](../docs/validate-idea-with-chatgpt.md): fast, read-only validation from a regular ChatGPT conversation before deeper research.
 
 Selection is an explicit team act. A selected idea updates [`../docs/product.md`](../docs/product.md); material architecture choices follow through [`../docs/decisions/`](../docs/decisions/README.md).

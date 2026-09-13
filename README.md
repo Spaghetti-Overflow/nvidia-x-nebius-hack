@@ -20,6 +20,8 @@
   ·
   <a href="research/README.md">Research</a>
   ·
+  <a href="docs/validate-idea-with-chatgpt.md">Validate an idea</a>
+  ·
   <a href="docs/research-with-chatgpt.md">Research with ChatGPT</a>
   ·
   <a href="ideas/README.md">Ideas</a>
@@ -54,6 +56,7 @@ The current investigation covers coding agents, harnesses, context engineering, 
 | [`docs/product.md`](docs/product.md) | The accepted product definition once the team chooses one |
 | [`docs/architecture.md`](docs/architecture.md) | Accepted architecture and its still-open questions |
 | [`docs/evaluation.md`](docs/evaluation.md) | Evaluation policy, comparison discipline, and evidence requirements |
+| [`docs/validate-idea-with-chatgpt.md`](docs/validate-idea-with-chatgpt.md) | Fast ChatGPT gate against current hackathon rules and idea criteria |
 | [`docs/research-with-chatgpt.md`](docs/research-with-chatgpt.md) | Public entry point for researching an idea from a regular ChatGPT conversation |
 | [`docs/decisions/`](docs/decisions/README.md) | Architecture Decision Records for material choices |
 | [`research/`](research/README.md) | Sourced external evidence and technical analysis |

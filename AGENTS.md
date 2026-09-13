@@ -11,6 +11,7 @@ This is an agent-first discovery and delivery workspace for a four-person Nebius
 | Generic harness concepts | [`docs/harness-primer.md`](docs/harness-primer.md) |
 | Accepted architecture | [`docs/architecture.md`](docs/architecture.md) |
 | Evaluation policy | [`docs/evaluation.md`](docs/evaluation.md) |
+| ChatGPT idea validator | [`docs/validate-idea-with-chatgpt.md`](docs/validate-idea-with-chatgpt.md) |
 | ChatGPT idea-research workflow | [`docs/research-with-chatgpt.md`](docs/research-with-chatgpt.md) |
 | Material accepted decisions | [`docs/decisions/`](docs/decisions/README.md) |
 | External technical evidence | [`research/`](research/README.md) |
@@ -26,6 +27,7 @@ Load only the files required for the current task. Subtree instructions in `idea
 
 ## Operating rules
 
+- Before adding information or a file, search the repository for existing coverage. Update the canonical source and link to it; create new content only when it has a distinct purpose that no existing file serves.
 - One concept has one canonical home. Update it and link to it; do not copy substantial content.
 - Keep `docs/` to accepted facts, constraints, and explicit decisions. Never silently promote research or an idea into project truth.
 - Label uncertainty. Distinguish sourced fact, inference, hypothesis, decision, and unknown.

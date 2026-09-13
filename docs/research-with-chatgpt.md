@@ -4,6 +4,8 @@ This is the public, read-only entry point for researching a product idea from a 
 
 It does not require Codex, a local checkout, or pasting the repository into the conversation.
 
+For a fast gate before full research, use [`validate-idea-with-chatgpt.md`](validate-idea-with-chatgpt.md).
+
 ## Quick start
 
 Start a new regular ChatGPT chat for each idea. Enable web search if it is not selected automatically, then paste this prompt and replace the placeholders:

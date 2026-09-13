@@ -6,4 +6,5 @@ Unknowns stay explicit. Evidence becomes project truth only through team accepta
 
 ## Workflows
 
-- [`research-with-chatgpt.md`](research-with-chatgpt.md) — public, read-only entry point for validating a personal idea from a regular ChatGPT conversation
+- [`validate-idea-with-chatgpt.md`](validate-idea-with-chatgpt.md) — fast, read-only gate against the canonical hackathon requirements and idea criteria
+- [`research-with-chatgpt.md`](research-with-chatgpt.md) — full, source-driven research workflow for a personal idea from a regular ChatGPT conversation
